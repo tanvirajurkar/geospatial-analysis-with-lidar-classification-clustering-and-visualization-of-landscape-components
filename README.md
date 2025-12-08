@@ -30,26 +30,24 @@ After downloading, place the file here:
 /data/lidar_dataset.las
 
 🔧 Tools & Technologies Used
-Category	         Tools
-Programming	       Python
-ML & DL	           Scikit-learn, XGBoost, Keras/TensorFlow
-Geospatial & 3D	   Open3D, CloudCompare
-Preprocessing	     NumPy, Pandas
-Visualization	     Matplotlib, Seaborn
-
+Category	Tools
+Programming	Python
+ML & DL	Scikit-learn, XGBoost, Keras/TensorFlow
+Geospatial & 3D	Open3D, CloudCompare
+Preprocessing	NumPy, Pandas
+Visualization	Matplotlib, Seaborn
 🤖 Machine Learning Models Used
 Method	Algorithms
-Classification	  Random Forest, XGBoost, K-Nearest Neighbors (KNN), Convolutional Neural Network (CNN)
-Clustering	      DBSCAN, K-Means
+Classification	Random Forest, XGBoost, K-Nearest Neighbors (KNN), Convolutional Neural Network (CNN)
+Clustering	DBSCAN, K-Means
 
 📌 Model Accuracy
 
 Algorithm	Accuracy
-Random Forest	-----  96%
-XGBoost	-----------  96%
-CNN	---------------  94%
-KNN	---------------  92%
-
+Random Forest	96%
+XGBoost	96%
+CNN	94%
+KNN	92%
 📊 Project Workflow
 Data Collection ➜ Preprocessing ➜ Feature Extraction ➜
 Classification / Clustering ➜ Model Evaluation ➜ Visualization
